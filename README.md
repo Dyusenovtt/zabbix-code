@@ -1,3 +1,4 @@
+zabbix code agent2
 Linux compute-vm-2-1-5-hdd-1775125195695 6.1.0-44-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.164-1 (2026-03-09) x86_64
 
 The programs included with the Debian GNU/Linux system are free software;
